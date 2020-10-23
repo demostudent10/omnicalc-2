@@ -61,7 +61,7 @@ Now, make it easier on your users. They should not have to type into the address
 
 Can you invent a way to make it easier for them using what you've learned about RCAV, `params`, and what we reverse-engineered about how HTML forms work?
 
-## Intro to APIs
+## Intro to APIs — we'll do this together in class on Day 5
 
 Some handy links:
 
